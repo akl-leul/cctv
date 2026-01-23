@@ -1,0 +1,78 @@
+{
+  "faces": {
+    "Nesredin": {
+      "count": 20,
+      "images": [
+        "known_faces\\Nesredin\\face_000.jpg",
+        "known_faces\\Nesredin\\face_001.jpg",
+        "known_faces\\Nesredin\\face_002.jpg",
+        "known_faces\\Nesredin\\face_003.jpg",
+        "known_faces\\Nesredin\\face_004.jpg",
+        "known_faces\\Nesredin\\face_005.jpg",
+        "known_faces\\Nesredin\\face_006.jpg",
+        "known_faces\\Nesredin\\face_007.jpg",
+        "known_faces\\Nesredin\\face_008.jpg",
+        "known_faces\\Nesredin\\face_009.jpg",
+        "known_faces\\Nesredin\\face_010.jpg",
+        "known_faces\\Nesredin\\face_011.jpg",
+        "known_faces\\Nesredin\\face_012.jpg",
+        "known_faces\\Nesredin\\face_013.jpg",
+        "known_faces\\Nesredin\\face_014.jpg",
+        "known_faces\\Nesredin\\face_015.jpg",
+        "known_faces\\Nesredin\\face_016.jpg",
+        "known_faces\\Nesredin\\face_017.jpg",
+        "known_faces\\Nesredin\\face_018.jpg",
+        "known_faces\\Nesredin\\face_019.jpg"
+      ],
+      "face_data": {},
+      "first_detected": "2026-01-23T20:13:05.652777",
+      "last_detected": "2026-01-23T20:13:05.652789",
+      "verified": true
+    },
+    "Leul Ayfokru": {
+      "count": 20,
+      "images": [
+        "known_faces\\Leul\\face_000.jpg",
+        "known_faces\\Leul\\face_001.jpg",
+        "known_faces\\Leul\\face_002.jpg",
+        "known_faces\\Leul\\face_007.jpg",
+        "known_faces\\Leul\\face_013.jpg",
+        "known_faces\\Leul\\face_014.jpg",
+        "known_faces\\Leul\\face_015.jpg",
+        "known_faces\\Leul\\face_016.jpg",
+        "known_faces\\Leul\\face_017.jpg",
+        "known_faces\\Leul\\face_018.jpg",
+        "known_faces\\Leul\\face_019.jpg"
+      ],
+      "face_data": {},
+      "first_detected": "2026-01-23T20:13:05.006435",
+      "last_detected": "2026-01-23T20:13:05.006468",
+      "verified": true,
+      "last_updated": "2026-01-23T20:14:00.106790"
+    },
+    "Test": {
+      "count": 2,
+      "images": [
+        "known_faces\\Test\\Test_20260123_214237.jpg",
+        "known_faces\\Test\\Test_20260123_214237_face.jpg"
+      ],
+      "face_data": {
+        "face_box": [
+          278,
+          278,
+          151,
+          151
+        ],
+        "image_size": [
+          480,
+          640
+        ]
+      },
+      "first_detected": "2026-01-23T21:42:37.349682",
+      "last_detected": "2026-01-23T21:42:37.349694",
+      "verified": true
+    }
+  },
+  "last_updated": "2026-01-23T21:42:37.349704",
+  "total_users": 3
+}

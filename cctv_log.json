@@ -1,0 +1,13 @@
+{
+  "last_updated": "2026-01-23T20:17:03.203084",
+  "total_detections": 74,
+  "known_faces": 2,
+  "detections": [
+    {
+      "timestamp": "2026-01-23T20:16:59.335526",
+      "face_id": "Leul Ayfokru",
+      "confidence": 0.8094293475151062,
+      "box": [100, 100, 150, 150]
+    }
+  ]
+}

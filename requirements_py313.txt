@@ -1,0 +1,25 @@
+# Core requirements for Python 3.13 compatibility
+opencv-python
+numpy
+pillow
+flask
+flask-socketio
+python-socketio
+requests
+qrcode
+pyttsx3
+pyinstaller
+
+# Optional requirements (install separately if needed)
+# streamlit
+# facenet-pytorch
+# scipy
+# scikit-learn
+# joblib
+# faster-whisper
+# TTS
+# ollama
+# webrtcvad
+# pyaudio
+# pywin32
+# cryptography

@@ -1,0 +1,40 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Face Manager GUI",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/face_manager_gui.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            }
+        },
+        {
+            "name": "Python: Network Camera Server",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/network_camera_server.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Python: Enhanced CCTV",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/enhanced_cctv_detector.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Python: Build App",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/build_app.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
